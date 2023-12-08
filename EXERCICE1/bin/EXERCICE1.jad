@@ -1,0 +1,8 @@
+MIDlet-1: EXERCICE1, EXERCICE1.png, MyMIDlet
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: EXERCICE1.jar
+MIDlet-Name: EXERCICE1
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
